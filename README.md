@@ -1,6 +1,10 @@
 # Intent_Classification_with_T5_Transformer
 
-Problem Statement : Intent Classification with T5 Transformer
+Problem Statement : Intent Classification with T5 Transformer.
+
+Input : Query
+
+Output : Intent
 
 Step 1 : import the required libraries.
 
