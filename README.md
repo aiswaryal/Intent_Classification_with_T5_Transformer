@@ -24,4 +24,4 @@ Step 8 : Check the accuracy.(95% approx)
 
 Step 9 : Checking the prediction for Query : 'how can i breach a network'
          
-         Output - oos(correct output)
+         Output - oos(out of scope,correct output)
