@@ -1,7 +1,6 @@
 # Intent_Classification_with_T5_Transformer
 
-Problem Statement : The Query will be the input and output should provide with the intent.
-
+Problem Statement : Intent Classification with T5 Transformer
 Step 1 : import the required libraries.
 
 Step 2 : Read the csv file and perform data manipulation to get the desired dataframe to work with.
