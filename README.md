@@ -25,3 +25,8 @@ Step 8 : Check the accuracy.(95% approx)
 Step 9 : Checking the prediction for Query : 'how can i breach a network'
          
          Output - oos(out of scope,correct output)
+
+
+
+
+https://nbviewer.org/github/aiswaryal/Intent_Classification_with_T5_Transformer/blob/main/IntentClassificationTransformerT5.ipynb
